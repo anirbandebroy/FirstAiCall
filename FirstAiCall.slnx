@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="FirstAiCall.RAG.LC/FirstAiCall.RAG.LC.csproj" />
+  <Project Path="FirstAiCall.RAG.SK/FirstAiCall.RAG.SK.csproj" />
+  <Project Path="FirstAiCall/FirstAiCall.csproj" />
+</Solution>
